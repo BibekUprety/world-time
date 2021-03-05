@@ -15,6 +15,6 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-<img height="500" width="500" src="https://github.com/BibekUprety/world-time/blob/main/assets/kathmandu.png">
-<img height ="500" width="500" src="https://github.com/BibekUprety/world-time/blob/main/assets/London.png">
+<img height="700" width="300" src="https://github.com/BibekUprety/world-time/blob/main/assets/kathmandu.png">
+<img height ="700" width="300" src="https://github.com/BibekUprety/world-time/blob/main/assets/London.png">
 
